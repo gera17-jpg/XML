@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="records.xsl"?>
+<s:class xmlns:s="http://example.com/students">
+    <s:student>
+        <s:name>Bryan</s:name>
+        <s:age>23</s:age>
+        <s:gender>M</s:gender>
+        <s:section>Unity</s:section>
+    </s:student>    
+</s:class>
