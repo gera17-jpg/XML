@@ -6,5 +6,11 @@
         <s:age>23</s:age>
         <s:gender>M</s:gender>
         <s:section>Unity</s:section>
-    </s:student>    
+    </s:student> 
+    <s:student>
+        <s:name>Bryan Austin</s:name>
+        <s:age>23</s:age>
+        <s:gender>M</s:gender>
+        <s:section>Infinity</s:section>
+    </s:student>
 </s:class>
